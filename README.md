@@ -1,5 +1,3 @@
-# Aleksander Vainer
-
-Personal GitHub Page of Aleksander Vainer
+# Aleksander Vainer's Personal GitHub Page
 
 **Under construction!**
